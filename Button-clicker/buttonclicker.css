@@ -1,0 +1,200 @@
+
+
+.container{
+    width: 1000px;
+    height: 650px;
+    margin: 0% auto;
+    background-color:whitesmoke;
+}
+
+.topmenu{
+    width: 1000px;
+    height: 75px;
+    margin: 10px auto;
+    background-color:silver;
+    display: flex;
+    align-items: center;
+}
+.box10{
+    width: 600px;
+    height: 250px;
+    margin: 10px;
+    border: 4px solid black;
+    position: absolute;
+    right: -280px;
+    top: 75px;
+}
+.box20{
+    width: 600px;
+    height: 250px;
+    margin: 10px;
+    border: 4px solid black;
+    position: absolute;
+    right: -280px;
+    top: 360px;
+}
+.box30{
+    width: 350px;
+    height: 200px;
+    margin: 10px;
+    border: 4px solid black;
+    position: absolute;
+    bottom: 295px;
+    left: 600px;
+}
+
+    P11{
+        font-family: sans-serif;
+        font-size: 50px;
+        color:rgb(57, 64, 72);
+        position: absolute;
+        left: 150px;
+        top: 15px;
+    }
+    p21{
+        font-family: sans-serif;
+        font-size: 50px;
+        position: absolute;
+        left: 20px;
+        top: 15px;
+    }
+    P22{
+        font-family: sans-serif;
+        font-size: 30px;
+        position: absolute;
+        top: 80px;
+        left: 35px;
+    }
+    P23{
+        font-family: sans-serif;
+        font-size: 25px;
+        position: absolute;
+        top: 125px;
+        left: 10px;
+    }
+    P24{
+        font-family: sans-serif;
+        font-size: 25px;
+        position: absolute;
+        top: 90px;
+        left: 220px;
+    }
+    P30{
+        font-family: sans-serif;
+        font-size: 50px;
+        position: absolute;
+        left: 20px;
+        top: 15px;
+    }
+    P31{
+    font-family: sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 80px;
+    left: 35px;
+    }
+    P32{
+        font-family: sans-serif;
+        font-size: 25px;
+        position: absolute;
+        top: 125px;
+        left: 10px;
+    }
+    P33{
+        font-family: sans-serif;
+        font-size: 25px;
+        position: absolute;
+        top: 80px;
+        left: 220px;
+    }
+    P41{
+        font-family: sans-serif;
+        font-size: 35px;
+        position: absolute;
+        text-align:start;
+        right: 85px;
+        top: 20px;
+    }
+
+    #Top-search{
+    position: absolute;
+    left: 450px;
+    top: 32px;
+    height: 20px;
+    width: 20px;
+    }
+
+        #Top-search input{
+        height: 30px;
+        width: 400px;
+        font-size: 20px;
+        border: 3px solid black;
+        }
+
+    #loginbox{
+    position: absolute;
+    left: 525px;
+    top: -5px;
+    background-color:black;
+    box-shadow: 2px 2px rgba(0,0,0,.8);
+    }
+
+#Like10{
+    position: absolute;
+    left: 25px;
+    top: 180px;
+    background-color: gold;
+    height: 40px;
+    width: 100px;
+    border: 4px solid black;
+    text-align:center;
+    box-shadow: 3px 3px rgba(0,0,0,.8);
+}
+#Like20 {
+    position: absolute;
+    left: 25px;
+    top: 180px;
+    background-color: gold;
+    height: 40px;
+    width: 100px;
+    border: 4px solid black;
+    text-align:center;
+    box-shadow: 3px 3px rgba(0,0,0,.8);
+}
+#definition{
+    position: absolute;
+    top: 120px;
+    left: 20px;
+    background-color:lightgreen;
+    height: 55px;
+    width: 300px;
+    text-align: center;
+    border: 4px solid black;
+    box-shadow: 3px 3px rgba(0,0,0,.8);
+}
+    button{
+        height: 40px;
+        width: 80px;
+        font-family: sans-serif;
+        font-size: 20px;
+        color: white;
+        background-color: blue;
+        border: 3px solid black;
+    }
+    button2{
+        line-height: 40px;
+        width: 70px;
+        font-size: 20px;
+        background-color: gold;
+    }
+    button3{
+        line-height: 40px;
+        width: 70px;
+        font-size: 20px;
+        background-color: gold;
+    }
+    button4{
+        line-height: 55px;
+        width: 70px;
+        font-size: 35px;
+    }
